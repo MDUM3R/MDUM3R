@@ -17,5 +17,10 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/mohammedumar022" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/md_umar2803" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MDUM3R&show_icons=true&locale=en" alt="MDUM3R" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MDUM3R&" alt="MDUM3R" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MDUM3R&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=MDUM3R&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&v=1)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MDUM3R&theme=blue_navy&hide_border=false&v=1)<br/>
+[![](https://visitcount.itsvg.in/api?id=MDUM3R&icon=0&color=0)](https://visitcount.itsvg.in)
+
